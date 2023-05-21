@@ -4,3 +4,4 @@ gitの練習を行う。
 ・git commit
 ・git rm
 ・git status
+・git diff
